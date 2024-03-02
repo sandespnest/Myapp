@@ -1,2 +1,2 @@
 // comments
-console.log("test");
+console.log("fitst commit from sandesnest");
